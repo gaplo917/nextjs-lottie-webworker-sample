@@ -1,0 +1,13 @@
+vscode/node_modules
+vscode/themes
+vscode/package-lock.json
+vscode/.vscode
+.next
+node_modules
+.idea
+public
+app/i18n/*.json
+src/*.json
+pages/*.json
+app/*.json
+src/generated/graphql.ts
